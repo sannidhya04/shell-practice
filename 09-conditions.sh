@@ -1,7 +1,7 @@
 
 #!bin/bash
 
-$NUMBER=$1
+$NUMBER=20
 
 # -gt -> greater than
 # -lt -> less than
