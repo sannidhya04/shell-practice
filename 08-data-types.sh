@@ -9,3 +9,7 @@ echo "Sum is $(($NUM2 + $NUM1))"
 FRUITS=("Apple" "Orange" "banana")
 
 echo "FRUITS are ${FRUITS[@]}"
+
+echo "FRUITS are ${FRUITS[0]}"
+
+echo "FRUITS are ${FRUITS[1]}"
