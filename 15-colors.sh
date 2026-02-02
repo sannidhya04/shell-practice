@@ -6,5 +6,5 @@ G="\e[32m"
 Y="\e[33m"
 N="\e[0m"
 
-echo "$R Hello WOrld $N, $Y Im learning linux $N"
+echo -e "$R Hello WOrld $N, $Y Im learning linux $N"
 
